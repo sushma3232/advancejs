@@ -1,0 +1,7 @@
+console.log(parseFloat(2))
+console.log(parseFloat(2.0))
+console.log(parseFloat(3.123))
+console.log(parseFloat(2+2))
+console.log(parseFloat("2+2"))
+console.log(parseFloat("24sushma"))
+console.log(parseFloat(vara=10))

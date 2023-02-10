@@ -1,0 +1,7 @@
+console.log(parseInt(2))
+console.log(parseInt(2.0))
+console.log(parseInt(3.123))
+console.log(parseInt(2+2))
+console.log(parseInt("2+2"))
+console.log(parseInt("24sushma"))
+console.log(parseInt(vara=10))
